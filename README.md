@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .WIKI one-word domains still available to buy.
 
-This dataset contains 7,941 .WIKI one word domains with availability, attractiveness and demand scores.
+This dataset contains 7,933 .WIKI one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.WIKI one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=wiki-oneword-domains&utm_content=description.top) (7,940) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.WIKI one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/wiki-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/wiki-oneword-domains/blob/main/wiki.csv"><b>⬇️ CSV (7.94K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/wiki-oneword-domains/blob/main/wiki.json"><b>⬇️ JSON (7.94K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/wiki-oneword-domains/blob/main/wiki.csv"><b>⬇️ CSV (7.93K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/wiki-oneword-domains/blob/main/wiki.json"><b>⬇️ JSON (7.93K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=wiki-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.94K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -46,7 +46,7 @@ If you want to search & filters the complete database of [.WIKI one word domains
 | abiding.wiki    | available | 106      | 5%     | 7      |           |         |         |
 | abient.wiki     | available | 54       | 1%     | 6      |           |         |         |
 | ability.wiki    | available | 92       | 15%    | 7      |           |         |         |
-| abit.wiki       | available | 66       | 12%    | 5      |           |         |         |
+| abit.wiki       | available | 68       | 12%    | 5      |           |         |         |
 | abkhas.wiki     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.wiki  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.wiki     | available | 82       | 2%     | 6      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.WIKI one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/wiki-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/wiki-oneword-domains/blob/main/wiki.csv"><b>⬇️ CSV (7.94K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/wiki-oneword-domains/blob/main/wiki.json"><b>⬇️ JSON (7.94K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/wiki-oneword-domains/blob/main/wiki.csv"><b>⬇️ CSV (7.93K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/wiki-oneword-domains/blob/main/wiki.json"><b>⬇️ JSON (7.93K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=wiki-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.94K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.WIKI one word domains
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
