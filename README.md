@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .wiki one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,781 domains · **Median ask:** $113.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/wiki`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | backyard.wiki    | available | $2.99     | —             | 80             | 27     | 9      | name.com                                     |
 | solutions.wiki   | resell    | —         | —             | 56             | 31     | 9      | DNSPod, Inc.                                 |
 | jobs.wiki        | premium   | $312.50   | —             | 79             | 42     | 4      | name.com                                     |
-| destination.wiki | available | $2.99     | —             | 90             | 25     | 11     | name.com                                     |
+| destination.wiki | available | $2.99     | —             | 90             | 24     | 11     | name.com                                     |
 | schools.wiki     | resell    | —         | —             | 72             | 24     | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
 | maps.wiki        | premium   | $125      | —             | 56             | 31     | 4      | name.com                                     |
 | flights.wiki     | available | $2.99     | —             | 61             | 22     | 7      | name.com                                     |
@@ -78,12 +78,12 @@ print(df.head())
 | heroes.wiki      | premium   | $125      | —             | 68             | 29     | 6      | name.com                                     |
 | origins.wiki     | available | $2.99     | —             | 46             | 22     | 7      | name.com                                     |
 | apartments.wiki  | resell    | —         | —             | 60             | 21     | 10     | GoDaddy.com, LLC                             |
-| comics.wiki      | premium   | $125      | —             | 68             | 24     | 6      | name.com                                     |
+| comics.wiki      | premium   | $125      | —             | 68             | 23     | 6      | name.com                                     |
 | Alexis.wiki      | available | $2.99     | —             | 72             | 21     | 6      | name.com                                     |
 | communities.wiki | resell    | —         | —             | 68             | 19     | 11     | Sav.com LLC                                  |
 | weddings.wiki    | premium   | $116      | $116          | 64             | 18     | 8      | namesilo                                     |
 | designs.wiki     | available | $2.99     | —             | 72             | 21     | 7      | name.com                                     |
-| pestcontrol.wiki | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC                             |
+| pestcontrol.wiki | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIKI One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIKI One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
