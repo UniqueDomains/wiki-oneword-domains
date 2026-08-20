@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .wiki one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,486 domains · **Median ask:** $38.05 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/wiki`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| correct.wiki | available | $2.99     | $32.49        | high           | low    | 7      | namesilo         |
-| period.wiki  | available | $2.99     | —             | high           | low    | 6      | name.com         |
-| sag.wiki     | available | $2.99     | —             | medium         | low    | 3      | name.com         |
-| active.wiki  | resell    | $657.80   | $65.99        | high           | low    | 6      | GoDaddy.com, LLC |
-| bee.wiki     | premium   | $116      | $116          | high           | medium | 3      | namesilo         |
-| blow.wiki    | available | $2.99     | $32.49        | medium         | low    | 4      | namesilo         |
-| ana.wiki     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| cry.wiki     | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
-| loud.wiki    | available | $2.99     | —             | medium         | low    | 4      | name.com         |
-| bro.wiki     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.  |
-| flu.wiki     | premium   | $116      | $116          | medium         | low    | 3      | namesilo         |
-| pipe.wiki    | available | $2.99     | —             | high           | low    | 4      | name.com         |
-| don.wiki     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| gym.wiki     | premium   | $312.50   | —             | high           | low    | 3      | name.com         |
-| shed.wiki    | available | $2.99     | —             | medium         | low    | 4      | name.com         |
-| kit.wiki     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
-| hum.wiki     | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
-| stop.wiki    | available | $2.99     | —             | high           | low    | 4      | name.com         |
-| mon.wiki     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ive.wiki     | premium   | $116      | $116          | medium         | low    | 3      | namesilo         |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| sag.wiki    | available | $2.99     | —             | medium         | low    | 3      | name.com         |
+| active.wiki | resell    | $657.80   | $65.99        | high           | low    | 6      | GoDaddy.com, LLC |
+| bee.wiki    | premium   | $116      | $116          | high           | medium | 3      | namesilo         |
+| blow.wiki   | available | $2.99     | $32.49        | medium         | low    | 4      | namesilo         |
+| ana.wiki    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| cry.wiki    | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
+| loud.wiki   | available | $2.99     | —             | medium         | low    | 4      | name.com         |
+| bro.wiki    | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.  |
+| flu.wiki    | premium   | $116      | $116          | medium         | low    | 3      | namesilo         |
+| pipe.wiki   | available | $2.99     | —             | high           | low    | 4      | name.com         |
+| don.wiki    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| gym.wiki    | premium   | $312.50   | —             | high           | low    | 3      | name.com         |
+| shed.wiki   | available | $2.99     | —             | medium         | low    | 4      | name.com         |
+| kit.wiki    | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
+| hum.wiki    | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
+| stop.wiki   | available | $2.99     | —             | high           | low    | 4      | name.com         |
+| mon.wiki    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| ive.wiki    | premium   | $116      | $116          | medium         | low    | 3      | namesilo         |
+| thou.wiki   | available | $2.99     | —             | medium         | low    | 4      | name.com         |
+| own.wiki    | resell    | —         | —             | high           | high   | 3      | Megazone Corp.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIKI One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIKI One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
