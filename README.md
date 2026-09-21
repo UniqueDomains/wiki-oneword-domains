@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .wiki one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,906 domains · **Median ask:** $24.22 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/wiki`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| sag.wiki  | available | $2.99     | —             | medium         | low    | 3      | name.com                                                |
-| ana.wiki  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
-| bee.wiki  | premium   | $116      | $116          | high           | medium | 3      | namesilo                                                |
-| blow.wiki | available | $2.99     | $32.49        | medium         | low    | 4      | namesilo                                                |
-| don.wiki  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
-| buy.wiki  | premium   | $116      | $116          | medium         | low    | 3      | namesilo                                                |
-| loud.wiki | available | $2.99     | —             | medium         | low    | 4      | name.com                                                |
-| kit.wiki  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                             |
-| cry.wiki  | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
-| pipe.wiki | available | $2.99     | —             | high           | low    | 4      | name.com                                                |
-| own.wiki  | resell    | —         | —             | high           | high   | 3      | Megazone Corp.                                          |
-| flu.wiki  | premium   | $116      | $116          | medium         | low    | 3      | namesilo                                                |
-| shed.wiki | available | $2.99     | —             | medium         | low    | 4      | name.com                                                |
-| boot.wiki | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| gym.wiki  | premium   | $312.50   | —             | high           | low    | 3      | name.com                                                |
-| stop.wiki | available | $2.99     | —             | high           | low    | 4      | name.com                                                |
-| gift.wiki | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5                                        |
-| hum.wiki  | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
-| thou.wiki | available | $2.99     | —             | medium         | low    | 4      | name.com                                                |
-| lead.wiki | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 12                                       |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| correct.wiki | available | $2.99     | $32.49        | high           | low    | 7      | namesilo                                                |
+| period.wiki  | available | $2.99     | —             | high           | low    | 6      | name.com                                                |
+| own.wiki     | resell    | —         | —             | high           | high   | 3      | Megazone Corp.                                          |
+| pardon.wiki  | available | $2.99     | —             | high           | low    | 6      | name.com                                                |
+| sag.wiki     | available | $2.99     | —             | medium         | low    | 3      | name.com                                                |
+| ana.wiki     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| bee.wiki     | premium   | $116      | $116          | high           | medium | 3      | namesilo                                                |
+| blow.wiki    | available | $2.99     | $32.49        | medium         | low    | 4      | namesilo                                                |
+| don.wiki     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| buy.wiki     | premium   | $116      | $116          | medium         | low    | 3      | namesilo                                                |
+| loud.wiki    | available | $2.99     | —             | medium         | low    | 4      | name.com                                                |
+| kit.wiki     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                             |
+| cry.wiki     | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
+| pipe.wiki    | available | $2.99     | —             | high           | low    | 4      | name.com                                                |
+| flu.wiki     | premium   | $116      | $116          | medium         | low    | 3      | namesilo                                                |
+| shed.wiki    | available | $2.99     | —             | medium         | low    | 4      | name.com                                                |
+| boot.wiki    | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| gym.wiki     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                                |
+| stop.wiki    | available | $2.99     | —             | high           | low    | 4      | name.com                                                |
+| gift.wiki    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIKI One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIKI One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
