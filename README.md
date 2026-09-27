@@ -1,10 +1,10 @@
-# Available .WIKI One-Word Domains (20,393)
+# Available .WIKI One-Word Domains (20,601)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C393%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C601%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .wiki one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,393 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,601 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,393 domains · **Median ask:** $19.75 · **High-demand under $2,500:** 17
+**Public extract:** 1,000 rows · **Live catalog:** 20,601 domains · **Median ask:** $19.78 · **High-demand under $2,500:** 17
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/wiki`
@@ -73,16 +73,16 @@ print(df.head())
 | jot.wiki    | available | $2.99     | —             | high           | low    | 3      | name.com                                            |
 | board.wiki  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 50                                   |
 | hem.wiki    | premium   | $130      | $130          | high           | low    | 3      | namecheap                                           |
-| cube.wiki   | available | $2.99     | —             | high           | medium | 4      | name.com                                            |
+| lil.wiki    | available | $2.99     | $32.49        | high           | low    | 3      | namesilo                                            |
 | coast.wiki  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
 | hex.wiki    | premium   | $65       | $130          | high           | medium | 3      | namecheap                                           |
-| damn.wiki   | available | $2.98     | $43.98        | high           | low    | 4      | namecheap                                           |
+| cube.wiki   | available | $2.99     | —             | high           | medium | 4      | name.com                                            |
 | primo.wiki  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
 | jar.wiki    | premium   | $116      | $116          | high           | low    | 3      | namesilo                                            |
-| desk.wiki   | available | $2.99     | —             | high           | low    | 4      | name.com                                            |
+| damn.wiki   | available | $2.98     | $43.98        | high           | low    | 4      | namecheap                                           |
 | store.wiki  | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | los.wiki    | premium   | $125      | —             | high           | low    | 3      | name.com                                            |
-| emir.wiki   | available | $2.98     | $43.98        | high           | low    | 4      | namecheap                                           |
+| desk.wiki   | available | $2.99     | —             | high           | low    | 4      | name.com                                            |
 | babies.wiki | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,393 live domains                        |
+| 1,000-row public sample | 20,601 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 17 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
