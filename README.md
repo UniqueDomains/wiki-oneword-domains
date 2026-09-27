@@ -1,10 +1,10 @@
-# Available .WIKI One-Word Domains (15,241)
+# Available .WIKI One-Word Domains (20,393)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C241%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C393%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .wiki one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,241 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,393 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,241 domains · **Median ask:** $36.09 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 20,393 domains · **Median ask:** $19.75 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/wiki`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| per.wiki  | available | $2.99     | —             | high           | low    | 3      | name.com                                                |
-| bid.wiki  | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| act.wiki  | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo                                                |
-| sag.wiki  | available | $2.99     | —             | high           | low    | 3      | name.com                                                |
-| bra.wiki  | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| ain.wiki  | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
-| say.wiki  | available | $2.99     | —             | high           | low    | 3      | name.com                                                |
-| don.wiki  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
-| bee.wiki  | premium   | $116      | $116          | high           | medium | 3      | namesilo                                                |
-| boom.wiki | available | $2.99     | —             | high           | medium | 4      | name.com                                                |
-| fin.wiki  | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                            |
-| car.wiki  | premium   | $1,722.50 | $1,722.50     | high           | medium | 3      | namecheap                                               |
-| bulk.wiki | available | $2.99     | $32.49        | high           | low    | 4      | namesilo                                                |
-| for.wiki  | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                            |
-| cry.wiki  | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
-| jail.wiki | available | $2.99     | —             | high           | low    | 4      | name.com                                                |
-| kit.wiki  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                             |
-| dog.wiki  | premium   | $812.50   | —             | high           | low    | 3      | name.com                                                |
-| lick.wiki | available | $2.99     | —             | high           | low    | 4      | name.com                                                |
-| own.wiki  | resell    | —         | —             | high           | high   | 3      | Megazone Corp.                                          |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| aug.wiki    | available | $2.98     | $43.98        | high           | low    | 3      | namecheap                                           |
+| dean.wiki   | resell    | —         | —             | high           | low    | 4      | —                                                   |
+| bph.wiki    | premium   | $116      | $116          | high           | low    | 3      | namesilo                                            |
+| hid.wiki    | available | $2.99     | $32.49        | medium         | low    | 3      | namesilo                                            |
+| face.wiki   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
+| buy.wiki    | premium   | $116      | $116          | high           | medium | 3      | namesilo                                            |
+| jot.wiki    | available | $2.99     | —             | high           | low    | 3      | name.com                                            |
+| board.wiki  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 50                                   |
+| hem.wiki    | premium   | $130      | $130          | high           | low    | 3      | namecheap                                           |
+| cube.wiki   | available | $2.99     | —             | high           | medium | 4      | name.com                                            |
+| coast.wiki  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
+| hex.wiki    | premium   | $65       | $130          | high           | medium | 3      | namecheap                                           |
+| damn.wiki   | available | $2.98     | $43.98        | high           | low    | 4      | namecheap                                           |
+| primo.wiki  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
+| jar.wiki    | premium   | $116      | $116          | high           | low    | 3      | namesilo                                            |
+| desk.wiki   | available | $2.99     | —             | high           | low    | 4      | name.com                                            |
+| store.wiki  | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| los.wiki    | premium   | $125      | —             | high           | low    | 3      | name.com                                            |
+| emir.wiki   | available | $2.98     | $43.98        | high           | low    | 4      | namecheap                                           |
+| babies.wiki | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,241 live domains                        |
+| 1,000-row public sample | 20,393 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 10 high-demand names under $2,500          |
+| Basic exported fields   | 17 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIKI One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIKI One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
