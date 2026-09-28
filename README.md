@@ -1,10 +1,10 @@
-# Available .WIKI One-Word Domains (21,068)
+# Available .WIKI One-Word Domains (21,517)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C068%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C517%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .wiki one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,068 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,517 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,068 domains · **Median ask:** $19.78 · **High-demand under $2,500:** 18
+**Public extract:** 1,000 rows · **Live catalog:** 21,517 domains · **Median ask:** $19.74 · **High-demand under $2,500:** 19
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/wiki`
@@ -78,10 +78,10 @@ print(df.head())
 | hex.wiki   | premium   | $65       | $130          | high           | medium | 3      | namecheap                                           |
 | lil.wiki   | available | $2.99     | $32.49        | high           | low    | 3      | namesilo                                            |
 | coast.wiki | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
-| jar.wiki   | premium   | $116      | $116          | high           | low    | 3      | namesilo                                            |
+| ine.wiki   | premium   | $103.70   | $103.70       | medium         | low    | 3      | spaceship                                           |
 | nes.wiki   | available | $2.98     | $43.98        | high           | low    | 3      | namecheap                                           |
 | primo.wiki | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
-| los.wiki   | premium   | $125      | —             | high           | low    | 3      | name.com                                            |
+| jar.wiki   | premium   | $116      | $116          | high           | low    | 3      | namesilo                                            |
 | cube.wiki  | available | $2.99     | —             | high           | medium | 4      | name.com                                            |
 | store.wiki | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,068 live domains                        |
+| 1,000-row public sample | 21,517 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 18 high-demand names under $2,500          |
+| Basic exported fields   | 19 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
