@@ -3,6 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 f9b85982-8140-4de2-91e3-39c77f1184ca,tennyson.wiki,available,2.98,43.98,medium,low,8,namecheap,,,18/09/2026 06:38
 e93122e3-e0b9-4acd-a052-f1e7ea55687c,tottering.wiki,available,2.98,43.98,medium,low,9,namecheap,,,11/09/2026 18:14
 3c7a58c2-b4ca-4ab5-a436-76ad2d18de69,tattletale.wiki,available,2.98,43.98,medium,low,10,namecheap,,,11/09/2026 10:28
+d139b9b8-8e7e-4f2b-a5bd-080ed666929b,households.wiki,available,2.98,43.98,medium,low,10,namecheap,,,02/10/2026 03:00
 a5ba497b-d6b3-499b-ae6c-eb31410e3882,countless.wiki,available,2.99,32.49,high,low,9,namesilo,,,24/09/2026 00:28
 52bd221a-a57b-4330-ad50-ff09966b2330,ouachita.wiki,available,2.98,43.98,medium,low,8,namecheap,,,30/09/2026 10:40
 077b4f63-3415-4d8c-82ac-8885d4337861,piscatory.wiki,available,2.98,43.98,high,medium,9,namecheap,,,08/09/2026 19:59
@@ -32,10 +33,12 @@ e2ea017b-e460-4ff2-beb1-bc888e8265b6,prosy.wiki,available,2.98,43.98,medium,low,
 1a434166-a470-4b5d-8373-6de2e2e5d35e,concisely.wiki,available,2.98,43.98,medium,low,9,namecheap,,,14/09/2026 08:10
 ae298d26-499d-4292-b4a4-8ede7dde1cba,extravagant.wiki,available,1.75,26.08,high,low,11,spaceship,,,30/09/2026 03:34
 15c557f6-431b-43fe-9fb2-c96a401c619e,armenians.wiki,available,1.75,26.08,medium,low,9,spaceship,,,01/10/2026 00:36
+3d8c119b-4af6-48a0-ad68-7a43a746f14b,merriman.wiki,available,1.75,26.08,medium,low,8,spaceship,,,02/10/2026 00:46
 4c904971-26b6-4bf2-a712-0654e22be776,aug.wiki,available,2.98,43.98,high,low,3,namecheap,,,07/08/2026 17:10
 f0440d59-0f9d-480c-beb7-1d5a82894b3b,harmonise.wiki,available,2.99,32.49,high,low,9,namesilo,,,16/09/2026 22:55
 da4dc122-1ba6-4cff-9905-a074b063dff5,antoninus.wiki,available,2.99,32.49,medium,low,9,namesilo,,,19/09/2026 15:34
 794de1a0-6349-4582-a94d-304cfb0c6ce0,depicted.wiki,available,2.98,43.98,medium,low,8,namecheap,,,14/08/2026 02:12
+be3ef5f1-d03b-4833-b8aa-e3de2d8189e8,crowder.wiki,available,1.75,26.08,medium,low,7,spaceship,,,01/10/2026 06:58
 8ad9e6fd-f573-49fe-83ea-2694bfac1a1b,scrub.wiki,available,2.99,32.49,high,low,5,namesilo,,,27/09/2026 18:50
 49cfadab-d283-4a00-a4ce-64cabada3e0e,forthwith.wiki,available,2.98,43.98,medium,low,9,namecheap,,,10/09/2026 21:39
 2800b128-3625-479a-818e-079d3a4aacfa,backed.wiki,available,2.98,43.98,high,low,6,namecheap,,,08/08/2026 05:33
@@ -60,7 +63,9 @@ d78f93d7-812c-4c0f-8e21-f37fa2d94bc0,alqaeda.wiki,available,2.99,32.49,medium,lo
 9de70ed7-c9b9-4cf3-bed1-f9bb50950465,coronary.wiki,available,2.98,43.98,high,low,8,namecheap,,,13/08/2026 01:44
 c1bc1d36-8c34-4d53-a7a3-c7b9a4b88f4c,difficulties.wiki,available,2.98,43.98,high,low,12,namecheap,,,17/09/2026 21:37
 ce4ed577-9fe2-413a-8102-63193777e450,allgood.wiki,available,2.98,43.98,high,low,7,namecheap,,,18/09/2026 10:56
+d9d24545-99a4-4ec9-aa9d-d0b2b3f35e0e,purification.wiki,available,2.99,32.49,high,low,12,namesilo,,,01/10/2026 13:56
 bb465249-0a98-4deb-badc-c8f4ae58089a,slavelike.wiki,available,2.98,43.98,medium,low,9,namecheap,,,10/09/2026 10:32
+ab6ff617-6d39-4d5a-b21d-aa46e586e66d,isobel.wiki,available,25.2,25.2,high,low,6,cloudflare,,,01/10/2026 08:56
 4adb29f1-2435-47a9-bba8-6460a3da64d0,thanked.wiki,available,1.75,26.08,medium,low,7,spaceship,,,29/09/2026 05:27
 f3b4c452-4d78-4f9d-9c79-86530acc05fe,adduct.wiki,available,2.98,43.98,medium,low,6,namecheap,,,17/09/2026 07:09
 c1833264-6d31-4b0d-96ea-dff91153524e,ehrlich.wiki,available,2.99,32.49,medium,low,7,namesilo,,,29/09/2026 00:46
@@ -72,6 +77,7 @@ c3c3587f-486f-4aa1-bea2-698a5fe566ee,abstention.wiki,available,2.98,43.98,medium
 cfb8b28a-70bd-42fd-8c8e-6ea24beeef30,auspices.wiki,available,2.99,32.49,high,low,8,namesilo,,,17/09/2026 12:16
 04a4bca2-6ef0-44ea-b433-ca08d11c3250,montclair.wiki,available,1.75,26.08,medium,low,9,spaceship,,,29/09/2026 04:37
 d87a8fad-dc88-4ce0-be03-b377a8d4126b,coyol.wiki,available,2.98,43.98,medium,low,5,namecheap,,,17/09/2026 03:38
+0229257b-7b8c-4fab-a747-d444f9415c88,staples.wiki,available,2,26.97,high,medium,7,dynadot,,,02/10/2026 02:18
 cf4c167d-eb5c-485e-b2fb-a02d8783ca6a,chauncey.wiki,available,2.99,32.49,medium,low,8,namesilo,,,29/09/2026 15:30
 a34a68b9-81f3-4b8f-bf53-9458e083b9ab,sibilant.wiki,available,2.98,43.98,medium,low,8,namecheap,,,12/08/2026 23:18
 809aa543-7f7e-40f4-8700-745506189d6a,outlet.wiki,available,1.75,26.08,high,low,6,spaceship,,,29/09/2026 17:56
@@ -120,12 +126,14 @@ bf8eb58b-9c4c-489c-8b26-70bbe42d5b5a,rarefied.wiki,available,2.98,43.98,medium,l
 5b98be93-bd1f-48e0-a673-f68372da5ad1,borden.wiki,available,2.99,32.49,high,low,6,namesilo,,,28/09/2026 07:29
 008e1ba2-9687-4866-a860-4d10ef7ffbfa,woodsy.wiki,available,2.98,43.98,high,low,6,namecheap,,,06/08/2026 13:04
 dcdf11d5-cb1b-46ab-9343-f9a310961517,playback.wiki,available,25.2,25.2,high,low,8,cloudflare,,,29/09/2026 13:42
+531ddc3f-1e20-46c1-9dd4-563d6e12ade6,slows.wiki,available,2,26.97,medium,low,5,dynadot,,,02/10/2026 02:13
 dddb060e-a988-4337-9d90-afa92177e18b,lacking.wiki,available,1.75,26.08,medium,low,7,spaceship,,,28/09/2026 10:18
 8e7cf882-eee8-4acc-ae37-c30d9cdb8da3,storyboards.wiki,available,2.98,43.98,medium,low,11,namecheap,,,20/09/2026 14:39
 89ef8737-97d7-4933-a818-b7dd918a984a,amish.wiki,available,2.99,32.49,high,low,5,namesilo,,,18/09/2026 21:52
 645426d9-9de5-424d-a02e-6072e87373e5,thug.wiki,premium,53.92,53.92,medium,low,4,namesilo,,,27/09/2026 08:15
 d9524b3b-9e6c-4d80-ad77-9332fc553656,malayalam.wiki,available,25.2,25.2,high,low,9,cloudflare,,,30/09/2026 17:57
 48b9a7b0-dfe7-4987-95d5-31aa002d0f88,goodness.wiki,available,2.98,43.98,high,low,8,namecheap,,,28/09/2026 02:02
+efc005cf-4417-4d27-84e3-4bb8975e9c01,swenson.wiki,available,2.99,32.49,medium,low,7,namesilo,,,01/10/2026 11:58
 2e47fb60-f875-4773-8906-581d81d069ad,bothered.wiki,available,2.99,32.49,medium,low,8,namesilo,,,23/09/2026 01:08
 cf9c6c12-7a41-405d-8913-509c739f80a0,cling.wiki,available,2.99,32.49,high,low,5,namesilo,,,24/09/2026 15:42
 1e5638d0-28bf-4cfe-b69a-309ccbed2e2c,macaroni.wiki,available,2.99,32.49,high,low,8,namesilo,,,01/10/2026 02:55
@@ -203,12 +211,13 @@ a332e002-a18a-4d8c-bf72-25a345675d35,noctuidae.wiki,available,2.99,32.49,medium,
 38d97f5e-ebd3-4333-9acc-3834788dbe1c,babies.wiki,resell,,,high,low,6,Dynadot Inc,19/03/2022 03:29,19/03/2027 03:29,26/09/2026 04:11
 60e3ea72-9aca-4291-b366-277aa423542b,isaacs.wiki,available,2.98,43.98,high,low,6,namecheap,,,29/09/2026 10:02
 c252bddf-5450-4976-a97a-30150047a810,rattling.wiki,available,2.98,43.98,high,low,8,namecheap,,,11/08/2026 04:30
-67af0ace-328c-4a24-a2f1-45546289cbff,booklist.wiki,available,2.99,32.49,high,low,8,namesilo,,,
+67af0ace-328c-4a24-a2f1-45546289cbff,booklist.wiki,available,2.98,43.98,high,low,8,namecheap,,,02/10/2026 03:01
 2b1b879b-fb28-4de7-a3c2-06adeb27f2fe,cdu.wiki,premium,103.7,103.7,high,low,3,spaceship,,,29/09/2026 03:11
 bbc6c1cb-ac1d-4a28-85e3-177c2f5cfff7,embroidery.wiki,available,1.75,26.08,high,low,10,spaceship,,,01/10/2026 01:51
 8a3deb27-c21c-48c4-9ac4-3dc5002c6f67,parts.wiki,premium,116,116,high,low,5,namesilo,,,25/09/2026 09:47
 a4b99183-f3b3-4009-96db-fee17cb856a2,alcohols.wiki,available,2.98,43.98,medium,low,8,namecheap,,,20/09/2026 18:31
 a7adeea8-cb8b-4651-b5da-44ffdc111d61,anthriscus.wiki,available,2.99,32.49,medium,low,10,namesilo,,,19/09/2026 13:53
+ea82586f-5f97-4876-a460-b55dd2cd9f3c,estrella.wiki,available,25.2,25.2,high,low,8,cloudflare,,,01/10/2026 23:33
 9477005b-5e6b-4e1b-b3dc-7fc871883fd7,hee.wiki,premium,130,130,high,low,3,namecheap,,,29/09/2026 21:26
 0f42cd66-a819-4c8a-9506-be6e124114e5,deserving.wiki,available,2.98,43.98,high,low,9,namecheap,,,14/08/2026 03:29
 6b1e13d6-24d1-4fce-b5b0-2a242769f3c8,petals.wiki,premium,,,medium,low,6,,,,29/09/2026 17:41
@@ -225,6 +234,7 @@ f89df841-93ad-4c23-82c5-d5e0ad30b8a3,erect.wiki,available,2.98,43.98,high,low,5,
 07966d1c-23ab-4c0a-b26c-9858e37f8e24,like.wiki,premium,116,116,high,medium,4,namesilo,,,21/09/2026 23:58
 d4468570-6c7b-4296-9bb5-c60ba9570846,inappropriate.wiki,available,2.99,32.49,medium,low,13,namesilo,,,27/09/2026 16:59
 4bbcf8a7-2cf1-4d4a-9940-22b13796767e,herring.wiki,available,2.99,32.49,high,low,7,namesilo,,,30/09/2026 01:03
+70b7aeb8-68ac-47b1-bbb5-8c96bd2b290a,nbl.wiki,premium,,,high,low,3,,,,01/10/2026 23:39
 715bfaaf-d359-4b21-b5af-264194eb5e70,recipient.wiki,available,2.99,32.49,high,low,9,namesilo,,,30/09/2026 09:19
 9c99552f-6793-44eb-acea-5678fee71171,spotless.wiki,available,2.98,43.98,high,low,8,namecheap,,,21/08/2026 20:48
 3c173c20-f03e-47b4-86e0-df645e1b2dac,norman.wiki,available,2.98,43.98,high,low,6,namecheap,,,03/09/2026 21:18
@@ -246,7 +256,8 @@ acc14b1b-6c07-4148-a1d4-d17f09477c64,pineapple.wiki,available,1.75,26.08,high,lo
 5eba938a-d5b4-43ce-8681-621efeaa98bd,gallstone.wiki,available,2.99,32.49,medium,low,9,namesilo,,,23/09/2026 15:46
 194c9143-9cda-4158-9461-333d8a5517df,accordance.wiki,available,2.99,32.49,high,low,10,namesilo,,,16/09/2026 23:00
 e1d62f4e-3da1-422e-9946-03e12006a2cc,primo.wiki,resell,,,high,low,5,"Spaceship, Inc.",26/05/2026 20:25,26/05/2027 20:25,26/09/2026 08:19
-d3bd408c-d15c-4a9a-9bf8-984a4207e055,respecting.wiki,premium,65.99,,medium,low,10,name.com,,,
+37ffeeaf-b826-4af1-bff3-60239df68046,ies.wiki,available,1.75,26.08,medium,low,3,spaceship,,,01/10/2026 16:28
+d3bd408c-d15c-4a9a-9bf8-984a4207e055,respecting.wiki,premium,51.95,51.95,medium,low,10,spaceship,,,01/10/2026 21:57
 c44a58fe-3f34-4366-98fa-e7e0413781ba,bifurcate.wiki,available,2.98,43.98,high,low,9,namecheap,,,09/08/2026 20:08
 4305cb86-18af-4098-867c-f9746a106bac,fired.wiki,available,2.98,43.98,medium,low,5,namecheap,,,24/09/2026 11:05
 36ea13ba-c2c4-4f40-9034-f8176fa67f0d,resigned.wiki,available,1.75,26.08,low,low,8,spaceship,,,28/09/2026 17:54
@@ -264,6 +275,7 @@ e5c2e8e8-b4cb-4122-9930-1437e4153294,aurous.wiki,available,2.98,43.98,medium,low
 884f5a5f-f77d-4b0c-afee-6e3635040ee1,leeward.wiki,available,2.98,43.98,medium,low,7,namecheap,,,22/08/2026 22:34
 dd4f2909-7b9a-475c-a387-32718257a216,sargent.wiki,available,2.99,32.49,medium,low,7,namesilo,,,27/09/2026 04:36
 246b913f-501b-4da4-8898-0b62553f6cba,shareholders.wiki,available,2.99,32.49,medium,low,12,namesilo,,,17/09/2026 15:53
+76678a3a-364b-49e5-9728-7acbb299622b,undermining.wiki,available,2,26.97,medium,low,11,dynadot,,,01/10/2026 15:46
 3e9d4920-08a4-4490-8740-e0f94327e55c,baptistry.wiki,available,2.99,32.49,medium,low,9,namesilo,,,22/09/2026 03:28
 aa121c83-7eac-4b94-979d-566e7f60b9c7,obsession.wiki,available,2.98,43.98,high,low,9,namecheap,,,28/09/2026 02:30
 f6bd432a-d496-4441-aa47-6d171f64d5ce,promoting.wiki,available,2,26.97,medium,low,9,dynadot,,,29/09/2026 10:15
@@ -311,6 +323,7 @@ d31144a8-c01f-4ea4-b084-ccfba022a03b,pronounce.wiki,available,25.2,25.2,high,low
 2acd1db5-b621-4780-8e77-49f7fc4fa52f,hospitably.wiki,available,2.98,43.98,medium,low,10,namecheap,,,15/09/2026 01:10
 d07ad678-3d96-43d9-8626-d54a4720054e,jar.wiki,premium,116,116,high,low,3,namesilo,,,30/09/2026 00:42
 ac786c6e-42dc-46ce-9bbb-736dbc622fa5,projector.wiki,available,25.2,25.2,high,low,9,cloudflare,,,29/09/2026 20:04
+a86cad4a-d5df-426e-aae1-2c6d0a2a0ffa,jig.wiki,premium,103.7,103.7,high,low,3,spaceship,,,01/10/2026 19:47
 3b8149a8-b434-4063-81f9-cd780ed30167,postwar.wiki,available,2.98,43.98,medium,low,7,namecheap,,,09/09/2026 00:42
 e5f1190d-615f-4aaa-863e-1b44e4dac5c3,unordered.wiki,available,2.98,43.98,medium,low,9,namecheap,,,12/09/2026 16:18
 ff71c5fc-d298-4dfe-b7c9-012cf8b6a9d6,acidic.wiki,available,2.98,43.98,high,low,6,namecheap,,,
@@ -329,6 +342,7 @@ f4dde835-98f3-4b7f-9654-2f159df5f028,steel.wiki,available,2.99,32.49,high,low,5,
 902f5551-4d9f-4233-b63b-d65746b04c97,club.wiki,premium,832,832,high,medium,4,namesilo,,,29/09/2026 00:44
 36292466-9002-4b30-9a5e-f8dbb70c8024,andes.wiki,available,2.99,32.49,high,low,5,namesilo,,,19/09/2026 04:04
 018ac6e3-c69b-46ed-91d6-7c618de34c2c,blear.wiki,available,2.98,43.98,medium,low,5,namecheap,,,10/08/2026 14:01
+dbff6e37-f66a-4844-8ca7-32092b230d22,shimon.wiki,available,2.99,32.49,medium,low,6,namesilo,,,02/10/2026 00:33
 add22008-80a3-411d-8af1-5671bf9f48b1,proportions.wiki,available,2.99,32.49,high,low,11,namesilo,,,17/09/2026 11:38
 4b9af1fd-9da2-4c96-a50b-2c5536e86c08,shellfish.wiki,available,1.75,26.08,high,low,9,spaceship,,,30/09/2026 18:03
 17066214-62e4-4556-bb6a-63508f2e31a3,bridget.wiki,available,25.2,25.2,high,low,7,cloudflare,,,29/09/2026 04:09
@@ -338,6 +352,8 @@ b71d2f99-d652-4c7c-a40f-f8db61f3e2b1,seri.wiki,premium,,,high,low,4,,,,30/09/202
 bd993d6b-352b-499a-9f52-3fb87e7afbf6,condense.wiki,available,2.99,32.49,high,low,8,namesilo,,,30/09/2026 17:42
 5f076673-0f0a-4b1d-86b5-7a22f5fa5aa8,sunk.wiki,premium,53.92,53.92,medium,low,4,namesilo,,,11/09/2026 01:50
 8920d0f4-5ce1-4f12-93b9-5375dcc0e3ae,emir.wiki,available,2.98,43.98,high,low,4,namecheap,,,18/09/2026 17:55
+f95713da-79ad-4d41-be6c-8b773872eb04,changsha.wiki,premium,116,116,medium,low,8,namesilo,,,02/10/2026 00:31
+c7d1a869-14ab-40e4-805b-c8ced04fb0dd,hating.wiki,available,2.99,32.49,low,low,6,namesilo,,,02/10/2026 02:47
 61852019-6534-4ab6-bee2-314ebda1812a,lifts.wiki,available,1.75,26.08,medium,low,5,spaceship,,,29/09/2026 05:05
 67e943ba-bfc4-4905-932a-098ce0ab5d97,shoddy.wiki,available,2.98,43.98,medium,low,6,namecheap,,,12/08/2026 03:27
 5ff5c345-4bc5-4838-b8d4-bb4980c0379b,macleod.wiki,available,25.2,25.2,medium,low,7,cloudflare,,,28/09/2026 02:12
@@ -349,6 +365,7 @@ e20bac16-d692-46f9-9922-15df7dbe2aac,endocrine.wiki,available,2.98,43.98,medium,
 55d18abc-1d1e-480c-8440-ffd7360a92a5,biped.wiki,available,2.98,43.98,high,low,5,namecheap,,,10/08/2026 05:14
 ed1b09df-e7ce-4e88-8673-0b35e23af094,anise.wiki,available,2.99,32.49,high,low,5,namesilo,,,19/09/2026 09:24
 9b598705-19c9-477c-b02e-a77291419be0,balkans.wiki,available,2.99,32.49,medium,low,7,namesilo,,,21/09/2026 22:15
+28498a28-74cd-47a3-b6f5-2e485ee9dda4,sint.wiki,premium,53.92,53.92,medium,low,4,namesilo,,,01/10/2026 16:45
 9a2749ad-657d-4760-bdba-e0437550319b,praiseful.wiki,available,2.98,43.98,medium,low,9,namecheap,,,22/08/2026 20:51
 02f0ddd4-5f9f-4f4d-90b8-cc41be6a1ed8,whimsical.wiki,premium,53.92,53.92,high,low,9,namesilo,,,13/09/2026 11:24
 297be3b4-45a6-4bcc-8b72-9b58ae0221fd,futures.wiki,resell,,,high,low,7,,,,29/09/2026 16:09
@@ -389,7 +406,7 @@ e4de2c33-e062-4c35-9980-3bb401265aa7,utilised.wiki,available,2.98,43.98,medium,l
 a1d614e5-a662-4b96-a962-7c663a71d73d,nettlesome.wiki,available,2.98,43.98,medium,low,10,namecheap,,,
 ca1738ba-82cb-4832-b05d-7f71d9180a7d,lens.wiki,resell,,,high,high,4,"Spaceship, Inc.",13/08/2026 00:02,13/08/2027 00:02,29/09/2026 12:27
 eb363998-f875-4fe3-98ed-80da8c453c31,rnas.wiki,premium,51.95,51.95,low,low,4,spaceship,,,29/09/2026 05:15
-88e011eb-d29d-47d4-bca5-ffc0902397a7,buy.wiki,premium,116,116,high,medium,3,namesilo,,,28/09/2026 15:25
+88e011eb-d29d-47d4-bca5-ffc0902397a7,buy.wiki,premium,103.7,103.7,high,medium,3,spaceship,,,01/10/2026 08:07
 7d6d6109-fb28-4d29-8d7d-dc93434f4e9d,peppermint.wiki,available,1.75,26.08,high,low,10,spaceship,,,01/10/2026 01:57
 027082a8-fbe8-4024-ba89-fa4adf4e6c43,sissified.wiki,available,2.98,43.98,medium,low,9,namecheap,,,12/08/2026 08:41
 589a8788-b4c5-40fb-8305-7c254f48cb94,nuts.wiki,premium,53.92,53.92,high,low,4,namesilo,,,22/09/2026 08:20
@@ -431,12 +448,15 @@ a32d922f-815e-4b47-b424-96e08406e44e,harmonised.wiki,available,2.98,43.98,high,l
 b1079f0b-fc1e-4a6e-88d5-a8afddd776de,aplite.wiki,available,2.99,32.49,medium,low,6,namesilo,,,19/09/2026 17:42
 8a2371d9-8ddc-4b77-a042-318f0613f407,natives.wiki,premium,53.92,53.92,medium,low,7,namesilo,,,18/09/2026 01:41
 a856dd26-f4fd-4873-84b0-baa688eeb12c,arsenic.wiki,available,2.98,43.98,medium,low,7,namecheap,,,13/09/2026 21:07
+16394e53-d9e9-46a0-bee0-50ed3f960f2d,gratification.wiki,available,1.75,26.08,medium,low,13,spaceship,,,02/10/2026 01:26
+a768ce81-7a8a-466c-86b2-80e4edfd930a,spectacles.wiki,available,25.2,25.2,high,low,10,cloudflare,,,02/10/2026 04:47
 52d78fd1-8642-4496-bea2-813d29118a73,bangs.wiki,available,2.98,43.98,medium,low,5,namecheap,,,16/09/2026 16:40
 6be94cbf-f03a-49ed-88d5-0ea9364b01c4,loos.wiki,premium,53.92,53.92,medium,low,4,namesilo,,,17/09/2026 09:32
 d2fbe003-ceef-4778-89fe-5714bfa21ebf,untracked.wiki,available,2.98,43.98,medium,low,9,namecheap,,,08/09/2026 10:31
 7c751eed-73cf-40e7-99f1-6cea05cdfe7b,chittagong.wiki,available,1.75,26.08,medium,low,10,spaceship,,,30/09/2026 16:42
 68ec5f19-0bcb-4145-953e-d71a5d753821,fanta.wiki,available,2.99,,high,low,5,name.com,,,
 4574a291-2e24-4bc8-aa36-98b635b1e866,astragal.wiki,available,2.98,43.98,medium,low,8,namecheap,,,19/09/2026 09:44
+482e9f26-af0f-42f3-9052-49ed07f718ba,resourceful.wiki,premium,51.95,51.95,high,low,11,spaceship,,,01/10/2026 22:40
 1db0f7b2-3d52-4670-9d5b-8a108bb34684,cuteness.wiki,available,2.99,32.49,high,low,8,namesilo,,,24/09/2026 20:43
 c66750e7-74c3-4f0d-acb3-b50669b390b2,consulate.wiki,available,2.99,32.49,high,low,9,namesilo,,,24/09/2026 17:37
 20fd65b1-41ab-4a39-b64d-c15e9196c729,learner.wiki,available,2.99,32.49,high,low,7,namesilo,,,19/09/2026 22:19
@@ -451,6 +471,7 @@ f3037503-5064-4d51-aed9-37a0dc499a86,appall.wiki,available,2.99,32.49,medium,low
 9270c529-1510-4453-9c6f-6197c24dc55f,lasts.wiki,available,2.99,32.49,low,low,5,namesilo,,,28/09/2026 09:03
 abd26228-c752-4675-bca8-48fdd7f1dfea,carrollton.wiki,available,2.99,32.49,high,low,10,namesilo,,,29/09/2026 22:42
 76bac44f-4e00-416c-83a6-f0f7c2b1af90,shote.wiki,available,2.98,43.98,high,medium,5,namecheap,,,08/09/2026 19:36
+7834bcfc-71c1-4aeb-8bec-ed41b4d6f3fe,compiled.wiki,available,2.06,26.26,high,low,8,porkbun,,,01/10/2026 16:08
 8ad3db8d-acf1-427d-86fd-ec0ed9df90a5,sisterly.wiki,available,2.98,43.98,high,low,8,namecheap,,,10/09/2026 08:52
 716a249a-7bd0-427a-8915-c5d9ae074da5,majority.wiki,available,2.99,32.49,high,low,8,namesilo,,,28/09/2026 17:11
 a9b2b400-c5f7-4440-ad28-e29aafb7b4f5,pyretic.wiki,available,2.98,43.98,medium,low,7,namecheap,,,09/09/2026 07:03
@@ -464,9 +485,11 @@ baf5bc66-a253-48ed-acfa-7149432cb781,vexation.wiki,available,2.98,43.98,medium,l
 1c600358-3910-4559-a128-0e2633a2d7af,damn.wiki,available,2.98,43.98,high,low,4,namecheap,,,22/09/2026 00:35
 d91eadc4-f4fb-47d0-ad42-5d4867dc61a4,gayly.wiki,available,2.98,43.98,medium,low,5,namecheap,,,14/09/2026 00:29
 4c0194b3-e615-48fb-a8f6-f2f35bfede6c,reeves.wiki,available,2.99,32.49,high,low,6,namesilo,,,29/09/2026 09:55
+aa848229-0d55-4a00-942e-30b145879d28,upheld.wiki,available,25.2,25.2,medium,low,6,cloudflare,,,01/10/2026 13:41
 41e48308-b935-4af6-af49-4c2d20093cb3,blues.wiki,premium,103.7,103.7,high,low,5,spaceship,,,29/09/2026 03:01
 8ccdb4c1-217f-4250-b7af-32403f6e56af,boots.wiki,available,2.99,32.49,high,low,5,namesilo,,,01/10/2026 02:10
 c670c55b-980d-4227-af3c-daed9bd31bb0,vols.wiki,premium,53.92,53.92,medium,low,4,namesilo,,,27/09/2026 11:41
+ccac8a77-0d90-4e4f-ad2c-330c7328adeb,choo.wiki,available,1.75,26.08,high,low,4,spaceship,,,01/10/2026 22:49
 e82ab567-74fc-4070-93ef-59d79a840be3,fastgrowing.wiki,available,2.99,32.49,high,low,12,namesilo,,,
 7f34e385-3cbb-4860-b204-27820ecea47f,overnice.wiki,available,2.98,43.98,medium,low,8,namecheap,,,04/09/2026 21:20
 416e93a7-d861-4951-a5e3-d1510dacbd91,exposition.wiki,available,1.75,26.08,high,low,10,spaceship,,,29/09/2026 18:50
@@ -478,6 +501,7 @@ cdffa4f6-349e-44f1-a666-184c8519c0d0,determinant.wiki,available,1.75,26.08,high,
 8fc82b95-6f11-4d68-87d9-a22553ab6a82,truant.wiki,available,2.98,43.98,high,low,6,namecheap,,,08/08/2026 01:41
 376287ec-a2cf-48ab-8e8e-56967a49ddc5,lil.wiki,available,2.99,32.49,high,low,3,namesilo,,,27/09/2026 06:06
 322f1e2c-0934-4515-9bcf-da34afc1b84c,indifferent.wiki,available,2.98,43.98,high,low,11,namecheap,,,01/10/2026 02:00
+bdb39684-b8f6-45cb-baa3-324c48146949,offenbach.wiki,available,1.75,26.08,high,low,9,spaceship,,,02/10/2026 05:26
 a00f26c0-ba02-4862-a23f-e2c0aeae6017,recessions.wiki,available,2.99,32.49,low,low,10,namesilo,,,21/09/2026 06:29
 8692280e-45cc-4050-93a9-fdf5c6ce5a49,aspect.wiki,available,1.75,26.08,high,low,6,spaceship,,,28/09/2026 22:41
 f23dd578-1d65-4485-ad3d-0479821940d8,prayer.wiki,resell,,,high,low,6,"NameCheap, Inc.",08/04/2023 23:18,08/04/2028 23:18,28/09/2026 01:59
@@ -547,6 +571,7 @@ f7d93422-a4ce-42ca-9083-c352f01e23ae,bohrium.wiki,available,2.99,32.49,medium,lo
 c8006d40-4de2-4beb-8e46-f13eeb400e9a,pistol.wiki,available,2.99,32.49,high,low,6,namesilo,,,27/09/2026 04:22
 64ab20ba-a43b-4e15-af5b-cb696950a6c4,humility.wiki,available,2.99,32.49,high,low,8,namesilo,,,29/09/2026 07:17
 cb101f41-5c5b-47ed-be5e-db6cab727a7d,romans.wiki,available,1.75,26.08,medium,low,6,spaceship,,,28/09/2026 19:05
+0451f957-27f9-4143-8b4d-41b2bedc9a2b,abington.wiki,available,25.2,25.2,medium,low,8,cloudflare,,,02/10/2026 01:44
 5946d447-3672-448b-80e9-f8adaff1a9a9,aranea.wiki,available,2.99,32.49,medium,low,6,namesilo,,,20/09/2026 00:00
 f17a66d2-b078-499c-98c6-994bf9a4cbd0,unco.wiki,premium,53.92,53.92,medium,low,4,namesilo,,,15/09/2026 23:08
 ee5966b3-5710-498a-8383-c5daa9b887f6,constraints.wiki,available,2.98,43.98,low,low,11,namecheap,,,20/09/2026 23:49
@@ -567,7 +592,7 @@ ce9ab459-e6a9-44f2-81a1-bff666bbbfd6,wrath.wiki,available,1.75,26.08,medium,low,
 940ba46e-bbfa-4c1d-b44b-f41aeaf4085b,antonymous.wiki,available,2.98,43.98,medium,low,10,namecheap,,,05/08/2026 20:16
 bb0ec8a3-2dcd-448b-8ff5-f4cb9f279105,swimsuits.wiki,available,2.99,65.99,medium,low,9,name.com,,,18/09/2026 15:44
 01bd6b66-8bee-4630-b6fe-206f802b7695,serenely.wiki,available,2.98,43.98,medium,low,8,namecheap,,,16/09/2026 01:06
-40f7e4b9-15f4-4782-9c17-e1f45efbd39b,waterflow.wiki,available,2.99,,high,low,9,name.com,,,
+40f7e4b9-15f4-4782-9c17-e1f45efbd39b,waterflow.wiki,available,25.2,25.2,high,low,9,cloudflare,,,02/10/2026 06:09
 40240311-2e85-4c06-91f3-fa304c72d9a3,nilpotent.wiki,available,2.98,43.98,medium,low,9,namecheap,,,03/09/2026 17:28
 a1ecd9f0-b14c-4f9c-b37a-68626db37a99,goodenough.wiki,available,2.99,32.49,high,low,11,namesilo,,,
 c5f68139-bf48-4d64-8167-0625b2c65870,marjorie.wiki,available,2.99,32.49,medium,low,8,namesilo,,,29/09/2026 04:00
@@ -580,6 +605,7 @@ c878c16e-ba57-4bad-9970-08359e13d119,mislabeled.wiki,available,2.98,43.98,medium
 a931c3a9-dd7b-49b7-ae39-ca568cfb391b,apnoeic.wiki,available,2.98,43.98,medium,low,7,namecheap,,,06/08/2026 00:46
 7c89669d-9d84-435d-92ee-e5eb5fb7920b,carelessly.wiki,available,2.98,43.98,medium,low,10,namecheap,,,14/09/2026 05:19
 fe3f65a8-763c-4f2a-a083-f783aa9ff9ed,graz.wiki,premium,,,medium,low,4,,,,29/09/2026 01:07
+8517a36d-98a5-4f2d-80cc-4a8c7ae6d621,nabokov.wiki,available,2.99,32.49,medium,low,7,namesilo,,,01/10/2026 21:08
 d1d7fbb5-1bc1-4da9-9fbf-a8827e1d00fb,muller.wiki,available,2.98,43.98,high,low,6,namecheap,,,29/09/2026 18:58
 3d498765-cbdd-4e41-95a4-841bfc200714,connell.wiki,available,2.99,32.49,medium,low,7,namesilo,,,28/09/2026 22:06
 25046d8f-54a5-409b-9d3c-8fb54137e935,modified.wiki,available,2.98,43.98,high,low,8,namecheap,,,25/08/2026 03:15
@@ -605,7 +631,7 @@ a354ea3a-dba3-4d00-b382-1c7d9842bece,announced.wiki,available,2.99,32.49,high,lo
 10249a6c-925e-4cc2-94d8-f2cd362d57f8,kirkwood.wiki,available,25.2,25.2,medium,low,8,cloudflare,,,29/09/2026 10:55
 5f695815-4247-40b4-a788-4621a28adff4,doj.wiki,premium,103.7,103.7,medium,low,3,spaceship,,,29/09/2026 12:03
 a618e9bd-2a52-4a78-8be3-9e7f330348f9,report.wiki,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",05/05/2020 22:21,05/05/2027 23:59,30/09/2026 05:37
-3b0346c4-f1d5-4a40-b567-d0cc1086cd73,cadillac.wiki,available,2.99,32.49,high,low,8,namesilo,,,
+3b0346c4-f1d5-4a40-b567-d0cc1086cd73,cadillac.wiki,available,2.98,43.98,high,low,8,namecheap,,,02/10/2026 00:40
 a1fc854b-0597-4af6-9d03-bcb4c02cbdfe,reluctant.wiki,available,2.98,43.98,medium,low,9,namecheap,,,24/08/2026 08:21
 6fd46a94-ddf1-4a2c-a27c-98a61364b87c,fill.wiki,premium,65,65,high,low,4,namecheap,,,27/09/2026 11:50
 0141038a-2ff2-4f20-9d71-3a8baa120871,baud.wiki,premium,53.92,53.92,medium,low,4,namesilo,,,22/09/2026 16:32
@@ -635,6 +661,7 @@ cf172884-7394-4a78-8f36-0839dd7cf4c1,sickening.wiki,available,2.98,43.98,medium,
 44155642-ac42-4596-9034-2e0ed3c0b4af,autoclave.wiki,available,2.99,65.99,medium,low,9,name.com,,,21/09/2026 06:03
 8a5c0734-01c1-4020-9ba2-d8dc961601be,hex.wiki,premium,65,130,high,medium,3,namecheap,,,21/08/2026 07:35
 eedca8f9-fb55-465c-a418-853c9af0bc20,isthmian.wiki,available,2.98,43.98,medium,low,8,namecheap,,,22/08/2026 11:34
+f5ebe548-9648-41e4-86da-460b9eaf77c5,perceptions.wiki,available,2.99,32.49,medium,low,11,namesilo,,,02/10/2026 03:23
 1324cf19-95e9-4793-bac3-f8cef36eca5d,spending.wiki,available,2.99,32.49,high,low,8,namesilo,,,27/09/2026 03:51
 6faf5a13-d2a8-4b8d-8b35-c9ba53edebf9,susan.wiki,available,2.99,32.49,high,low,5,namesilo,,,01/10/2026 04:01
 3eb5c311-f07d-46e3-8ca1-727ee9dce926,enterprising.wiki,available,25.2,25.2,high,low,12,cloudflare,,,30/09/2026 02:31
@@ -662,6 +689,7 @@ fcde83e1-1941-47e2-8ab4-501a2fd43049,precocial.wiki,available,2.98,43.98,high,me
 98686b83-c463-40c3-9db1-4b5983f5f760,curzon.wiki,available,25.2,25.2,medium,low,6,cloudflare,,,29/09/2026 22:25
 f19c19d1-afba-4ba4-89b7-1b0a20e0ab1c,lobe.wiki,premium,55,55,high,low,4,dynadot,,,29/09/2026 19:33
 4981e869-f150-4f6b-8e4b-defff373859a,dulcet.wiki,available,2.98,43.98,medium,low,6,namecheap,,,14/08/2026 20:59
+eebd1bcb-a7bd-46e3-9bc7-3481956ece60,sibelius.wiki,available,1.75,26.08,high,low,8,spaceship,,,02/10/2026 05:29
 3db66ab0-0cd2-4978-8e4a-6eaa9dff5bb6,pillowcases.wiki,available,2.99,32.49,medium,low,12,namesilo,,,21/09/2026 01:49
 1afbdc9c-0b61-4f25-90e0-a6a1887e9f25,eightfold.wiki,available,2.98,43.98,medium,low,9,namecheap,,,15/08/2026 21:27
 02582d1f-7619-431c-b01c-edb3fac9f756,retreated.wiki,available,2.98,43.98,high,low,9,namecheap,,,30/09/2026 02:43
@@ -673,6 +701,7 @@ cc6c6e6f-874d-4693-89df-c1c4af591bf1,exhaustion.wiki,available,2.98,43.98,medium
 77badf26-cb97-4e8a-a5b1-d1d36ed723ae,scheduling.wiki,available,2.98,43.98,high,low,10,namecheap,,,29/09/2026 02:34
 a94d4d8f-7529-4b5f-b79c-080555f77dff,slowed.wiki,available,2.99,32.49,medium,low,6,namesilo,,,20/09/2026 15:42
 f7e30351-a9b1-40cd-9723-db025be25b20,peninsular.wiki,available,2.98,43.98,high,low,10,namecheap,,,08/09/2026 14:28
+4c7da2f7-48cf-47e1-aab1-f5f0d8fa82fd,formulation.wiki,available,1.75,26.08,high,low,11,spaceship,,,01/10/2026 13:01
 17cda73e-37c9-4151-8c5e-7a8254d333a6,ecru.wiki,premium,32.5,65,medium,low,4,namecheap,,,09/08/2026 12:26
 7ad67609-b0a0-412f-8ac4-69a35d3c236c,addison.wiki,available,1.75,26.08,medium,low,7,spaceship,,,29/09/2026 23:23
 f7b275b2-9aac-46c4-9331-8bf02a50ae31,metropolitan.wiki,available,1.75,26.08,medium,low,12,spaceship,,,29/09/2026 02:58
@@ -698,12 +727,14 @@ cf11ac1c-7de3-4d6a-a8f5-9eb8b60b4f43,synoecious.wiki,available,2.98,43.98,medium
 90d42449-5b29-4179-bb5a-6ba168172c98,niobium.wiki,available,2.99,32.49,medium,low,7,namesilo,,,20/09/2026 23:04
 589ba3ce-ea0f-4a7b-911d-44b0ac5a3f25,worst.wiki,available,2.99,32.49,medium,low,5,namesilo,,,28/09/2026 10:59
 0fd0514c-a8b7-4b55-8306-0a90e9b57858,unwrinkled.wiki,available,2.98,43.98,medium,low,10,namecheap,,,12/09/2026 22:55
+1f91e6a3-b2ce-4e7a-b7d1-c42500d91a9c,cochise.wiki,available,2.99,32.49,high,low,7,namesilo,,,02/10/2026 04:24
 6390f595-e0b1-48a9-aa5c-61e03701d4b9,huffish.wiki,available,2.98,43.98,medium,low,7,namecheap,,,21/08/2026 14:38
 fb4af198-3edb-48d1-b284-d1a78db39781,tonic.wiki,available,2.99,32.49,high,low,5,namesilo,,,19/09/2026 16:01
 c2432dab-d0dd-459a-8b60-92985b661ea4,tod.wiki,premium,116,116,high,low,3,namesilo,,,11/09/2026 16:39
 3df0e4e5-abdf-4953-bd62-0b83b37b5561,simplify.wiki,available,1.75,26.08,high,low,8,spaceship,,,30/09/2026 21:28
+5ecf743f-18b5-4524-bddd-9ede4bdba00d,anchors.wiki,available,1.75,26.08,medium,low,7,spaceship,,,01/10/2026 18:28
 80012cbd-38d7-4cb0-a665-a041398eefd9,roughneck.wiki,available,2.98,43.98,medium,low,9,namecheap,,,11/08/2026 08:43
-c7c6d568-86e4-4ee1-a7ec-5892d5dfcc05,enrollment.wiki,available,2.99,32.49,high,low,10,namesilo,,,28/09/2026 02:45
+c7c6d568-86e4-4ee1-a7ec-5892d5dfcc05,enrollment.wiki,available,2.99,32.49,high,low,10,namesilo,,,02/10/2026 05:38
 ee9ebee2-733a-48e8-b9f4-f0aa5b986ce3,badness.wiki,available,2.98,43.98,medium,low,7,namecheap,,,08/08/2026 07:23
 8be65d37-3b1f-4379-8fa2-fc4331067c6d,stepping.wiki,available,2.98,43.98,high,low,8,namecheap,,,16/09/2026 15:33
 22908f8c-74c8-4d6f-a829-e6d046515312,gushy.wiki,available,2.98,43.98,medium,low,5,namecheap,,,20/08/2026 21:03
@@ -747,7 +778,6 @@ d92f4534-652b-490d-ad1a-d5785e24ba60,specified.wiki,available,2.98,43.98,high,me
 5e6359a6-c8d2-46d8-8c21-8c024a794c74,coulomb.wiki,available,2.99,32.49,medium,low,7,namesilo,,,18/09/2026 23:08
 b4eceb19-35fb-40e0-a8df-a07ee1fe6908,intrepidly.wiki,available,2.98,43.98,medium,low,10,namecheap,,,14/09/2026 10:53
 6cea9956-e4a0-49d4-b4f7-10cf9b649fb1,hair.wiki,premium,110,110,high,low,4,dynadot,,,29/09/2026 20:14
-ce6036ab-6ca5-4226-9b2f-ab10610a6d89,trillionaire.wiki,available,2.99,,high,low,12,name.com,,,
 f7ff65e2-29c1-415e-8c3e-007224328df4,authoring.wiki,available,25.2,25.2,high,low,9,cloudflare,,,30/09/2026 11:46
 dfa2b289-30e4-4a48-95b4-260f65158dc4,homotopy.wiki,available,2.99,49.99,medium,low,8,godaddy,,,01/10/2026 01:08
 754d7d75-4bed-4543-a982-12270c6b1092,biochemical.wiki,available,1.75,26.08,high,low,11,spaceship,,,30/09/2026 11:40
@@ -757,6 +787,7 @@ dfa2b289-30e4-4a48-95b4-260f65158dc4,homotopy.wiki,available,2.99,49.99,medium,l
 149bc8fa-168e-4b6d-8fba-f7b1ec6ed664,steroidal.wiki,available,2.98,43.98,medium,low,9,namecheap,,,10/09/2026 20:19
 f0964ee2-1be8-430b-b89d-d4a6c531341b,officials.wiki,available,2.99,32.49,medium,low,9,namesilo,,,17/09/2026 12:28
 f147add5-78fe-4b64-9274-c59de068fc3a,rollins.wiki,available,2.99,32.49,high,low,7,namesilo,,,27/09/2026 08:03
+f72c99ba-83f2-4250-bf0a-013373d04780,nanotubes.wiki,available,2.99,32.49,medium,low,9,namesilo,,,02/10/2026 03:01
 2146592b-dab0-4474-bf41-21e6899b379b,mandalay.wiki,available,2.99,32.49,high,low,8,namesilo,,,01/10/2026 02:58
 e5a8de9c-e9fe-447b-ae55-5bbdd14d60a1,resemblance.wiki,available,2.99,,high,low,11,name.com,,,
 484aa396-4e08-492c-93ae-f6c87eea2848,menace.wiki,available,25.2,25.2,high,low,6,cloudflare,,,29/09/2026 01:40
@@ -787,6 +818,7 @@ ad503588-07b9-446f-8e8b-af5ad5b30f1e,waybill.wiki,available,2.99,32.49,high,low,
 db616592-afe6-4168-ac82-fe5ff49dc307,gallows.wiki,available,2.99,32.49,medium,low,7,namesilo,,,30/09/2026 09:52
 fe3ccca8-1d8e-4a89-a1d8-52bdb511c1e3,cosmogenic.wiki,available,2.98,43.98,medium,low,10,namecheap,,,13/08/2026 03:00
 a9f3c658-0790-4e90-ae93-28eb7e745316,archery.wiki,premium,302.5,302.5,high,low,7,namesilo,,,20/09/2026 02:00
+508e05cb-d2e1-4616-bb0b-0908cfb96f89,collage.wiki,available,1.75,26.08,high,low,7,spaceship,,,01/10/2026 19:01
 b5044375-e9ab-45bc-bcf6-5afc73e6907a,babar.wiki,available,2.99,32.49,high,low,5,namesilo,,,21/09/2026 12:14
 df4318b5-e1cd-42cc-b596-1690ec580597,amora.wiki,available,2.99,32.49,high,low,5,namesilo,,,18/09/2026 22:38
 5d0ba58c-7808-4b06-88a7-679c262ffb42,aggressive.wiki,available,2.99,32.49,high,low,10,namesilo,,,21/09/2026 22:59
@@ -804,6 +836,7 @@ d27982bf-3fe2-4e8f-ba19-c761acb88bff,compromised.wiki,available,2.99,32.49,mediu
 de9e353a-96d3-4b9d-bc53-b529a7fbc8b5,untaxed.wiki,available,2.98,43.98,medium,low,7,namecheap,,,11/09/2026 09:28
 81f5a087-8a86-479d-a52d-d6977fc40dba,inmost.wiki,available,2.98,43.98,medium,low,6,namecheap,,,22/08/2026 05:51
 057260fd-f17b-4ae2-843e-d217278ffd2b,motherhood.wiki,available,1.75,26.08,high,low,10,spaceship,,,29/09/2026 19:42
+45276736-e74f-4ddd-9687-5066a053fb80,hijacking.wiki,available,1.75,26.08,medium,low,9,spaceship,,,01/10/2026 19:58
 47c409fc-d7e3-4471-8581-6e8efeb78a5b,kilobyte.wiki,available,2.99,49.99,high,low,8,godaddy,,,30/09/2026 01:18
 d4d8b216-6876-45c3-90d9-662d85ecd644,coast.wiki,resell,,,high,low,5,"Spaceship, Inc.",24/07/2026 14:39,24/07/2027 14:39,29/09/2026 10:10
 93423301-f08b-46f8-9a89-ffdafb07173c,prohibition.wiki,available,2.99,32.49,medium,low,11,namesilo,,,29/09/2026 15:19
@@ -833,9 +866,11 @@ e43d5e7e-10f0-46cf-968b-22eea3b3f19d,strife.wiki,available,2.99,32.49,high,low,6
 6d09e732-cd65-4d5b-b1c4-27da88b3b5f8,atrocity.wiki,available,2.99,32.49,medium,low,8,namesilo,,,21/09/2026 00:49
 bf6b024c-1faa-48a7-ab19-56a6b25764f1,fastest.wiki,available,2.98,43.98,high,low,7,namecheap,,,14/09/2026 17:49
 b6da6eec-9b8b-45c8-84f3-1a6ce6007e30,norbert.wiki,available,1.75,26.08,medium,low,7,spaceship,,,28/09/2026 22:05
+5200c746-a413-4f9e-b119-1cc201dd6562,jeffreys.wiki,available,1.75,26.08,medium,low,8,spaceship,,,02/10/2026 01:14
 46fca25c-5208-4d28-b0b5-f72e1ff4fe0a,upfront.wiki,available,2.98,43.98,high,low,7,namecheap,,,12/09/2026 23:09
 d23c1df9-8aa2-4fd4-a9c8-2ffbc2621503,felonious.wiki,available,2.98,43.98,medium,low,9,namecheap,,,18/08/2026 00:58
 16b7fd4a-d192-4a5a-b786-67d64bcacc30,almoner.wiki,available,2.99,32.49,medium,low,7,namesilo,,,18/09/2026 12:40
+fe0719ee-0a90-4671-be38-5fe0305feeb0,duluth.wiki,available,1.75,26.08,medium,low,6,spaceship,,,01/10/2026 19:17
 0b21b2e5-444e-4f25-9722-9fc94c73b3e5,ugandan.wiki,available,2.98,43.98,medium,low,7,namecheap,,,11/09/2026 22:40
 c1a66c9b-47f5-4df0-9431-f2e201baa44d,secretaries.wiki,available,2.99,32.49,medium,low,11,namesilo,,,30/09/2026 00:46
 8bf63bb5-5eeb-4acd-a273-2cc60117908a,ottoman.wiki,available,2.98,43.98,high,low,7,namecheap,,,04/09/2026 18:38
@@ -843,6 +878,7 @@ c1a66c9b-47f5-4df0-9431-f2e201baa44d,secretaries.wiki,available,2.99,32.49,mediu
 dd497f5b-ac7c-4b81-b70d-017ad4ed4b79,manufacturer.wiki,available,1.75,26.08,medium,low,12,spaceship,,,28/09/2026 20:59
 e44b5a6d-1861-4efd-8c74-06c2e58f4088,baste.wiki,available,2.99,32.49,medium,low,5,namesilo,,,22/09/2026 12:43
 24902c37-915d-4d04-9921-f04e36ecfab6,urethral.wiki,available,2.98,43.98,medium,low,8,namecheap,,,12/09/2026 23:35
+1c39b60a-7aee-494f-8027-d97bc69b8c62,torr.wiki,premium,55,55,high,low,4,dynadot,,,01/10/2026 20:33
 45df1028-3a1c-4e47-b5da-875612b2d572,gabble.wiki,available,2.99,32.49,medium,low,6,namesilo,,,23/09/2026 23:37
 eb98b636-aacf-4fa2-818e-07f7279c1c4c,bagel.wiki,available,2.06,26.26,high,low,5,porkbun,,,29/09/2026 00:27
 37df72ee-41f3-4dc0-9977-1c6e30e88865,couples.wiki,available,2.98,43.98,medium,low,7,namecheap,,,
@@ -872,9 +908,11 @@ b717728e-f577-417e-a260-9dfad7aea37c,smoky.wiki,available,2.98,43.98,medium,low,
 4885655a-59de-4d2d-9432-f2e9ffa42e8b,heatable.wiki,available,2.98,43.98,medium,low,8,namecheap,,,21/08/2026 02:15
 b9887a92-3764-460c-9067-0a03b27fdc47,bribes.wiki,available,2.99,32.49,low,low,6,namesilo,,,01/10/2026 00:36
 d116593e-6a35-4d4e-8fea-b3545a44904e,chemotherapy.wiki,available,1.75,26.08,medium,low,12,spaceship,,,29/09/2026 16:06
+3954b678-5791-4424-badb-f5329d3c83ea,kirov.wiki,available,1.75,26.08,medium,low,5,spaceship,,,02/10/2026 00:27
 6fbe701b-6948-4f51-ae80-af868b839088,welds.wiki,available,2.99,32.49,medium,low,5,namesilo,,,20/09/2026 14:08
 8f2175c4-b407-4103-816a-489b50f17903,federal.wiki,available,2.99,32.49,high,low,7,namesilo,,,24/09/2026 17:28
 c6c1708f-1065-4b9f-a697-1ca402b565c0,obviously.wiki,available,2.98,43.98,high,low,9,namecheap,,,27/09/2026 03:52
+ca60f270-bba3-4e86-83d0-e2e41d053822,compensated.wiki,available,25.2,25.2,medium,low,11,cloudflare,,,01/10/2026 18:26
 705fdf35-576b-4940-911b-75ef51a76cc1,tramway.wiki,available,2.99,32.49,medium,low,7,namesilo,,,17/09/2026 12:48
 58448e76-ece8-4a05-b81c-c238a1aa979e,rubbishy.wiki,available,2.98,43.98,high,medium,8,namecheap,,,09/09/2026 19:16
 ceca43e2-b450-4e16-8a73-c529181db613,enjoys.wiki,available,2.99,32.49,medium,low,6,namesilo,,,28/09/2026 23:12
@@ -892,13 +930,14 @@ d857fbab-1fb7-4e9b-b0d2-72ede6483337,cemetery.wiki,available,2.99,32.49,medium,l
 26a628f4-88c4-4948-a940-6604dcc64146,biophysics.wiki,available,2.98,43.98,high,low,10,namecheap,,,23/09/2026 18:50
 2e0cb7ad-9254-4f79-8b86-6bf9608b31ad,lego.wiki,premium,672.95,672.95,high,high,4,spaceship,,,30/09/2026 02:46
 ac51056b-438e-4a92-8468-a99585cc668d,laureate.wiki,available,2.98,43.98,high,low,8,namecheap,,,22/08/2026 20:57
+93adaeea-8118-4fde-a7bb-53669faeb76f,eyeball.wiki,available,2.99,32.49,high,low,7,namesilo,,,02/10/2026 04:47
 fe508aa6-da9f-4199-9ba1-f9ef822383c3,hindu.wiki,premium,422.5,845,high,low,5,namecheap,,,21/08/2026 09:30
 a867557c-2496-4ee5-94fd-9d85890a9cec,shampoo.wiki,available,1.75,26.08,high,low,7,spaceship,,,30/09/2026 02:51
 770e157d-15b9-47ec-9798-dbf2fd78f38e,translator.wiki,available,1.75,26.08,high,low,10,spaceship,,,28/09/2026 19:30
 3c4b5eb7-988e-489e-ad43-301d10f6d732,carsick.wiki,available,2.98,43.98,medium,low,7,namecheap,,,
 bc13ef94-beca-428c-808f-2278ce6ba45b,nailed.wiki,available,2.99,32.49,medium,low,6,namesilo,,,18/09/2026 21:49
 7e0a751e-3a0d-482e-b2f6-6b02e9ad3ccc,induction.wiki,available,2,26.97,high,low,9,dynadot,,,29/09/2026 12:10
-885afef2-8497-4d53-8554-bb78e4ca8146,diagnosis.wiki,available,2.99,32.49,high,low,9,namesilo,,,24/09/2026 22:08
+885afef2-8497-4d53-8554-bb78e4ca8146,diagnosis.wiki,available,2.98,43.98,high,low,9,namecheap,,,01/10/2026 22:09
 b3dbada4-bd4a-47a0-bfc1-9bfd3d8989ad,corrective.wiki,available,2.99,32.49,high,low,10,namesilo,,,23/09/2026 23:46
 f232f3ce-d703-49d7-a931-446495ff21a6,stockton.wiki,available,2.99,32.49,high,low,8,namesilo,,,25/09/2026 06:10
 42678cb6-e0b9-4119-92e7-45c7a3101d05,sprawling.wiki,available,2.98,43.98,high,medium,9,namecheap,,,09/09/2026 10:02
@@ -906,9 +945,13 @@ f232f3ce-d703-49d7-a931-446495ff21a6,stockton.wiki,available,2.99,32.49,high,low
 f0230e67-2225-4f79-acd7-702f68fd5f3b,violated.wiki,available,2.99,32.49,medium,low,8,namesilo,,,27/09/2026 07:04
 f4c34d31-fa5a-4d0d-b609-cbd928e42818,hillary.wiki,available,2.99,32.49,medium,low,7,namesilo,,,27/09/2026 03:48
 f8583ba5-7cfe-4573-8edf-9de7ec6aa803,grants.wiki,premium,258.95,258.95,high,low,6,spaceship,,,29/09/2026 09:56
+71e58d5e-5037-423b-b49f-9fcb3b682d36,trivia.wiki,premium,,,high,low,6,,,,01/10/2026 21:43
 2f999c75-9aa6-4434-ab16-c12ae23911cf,stuffy.wiki,available,2.98,43.98,high,low,6,namecheap,,,
 b08056e2-07f5-4aef-8527-3fc358d7e11e,budget.wiki,available,2.99,32.49,high,low,6,namesilo,,,29/09/2026 05:05
 f4a8ca8b-32d8-4cc4-b7da-37289375776a,perth.wiki,premium,130,130,high,low,5,namecheap,,,26/09/2026 00:00
+6e068f5c-2cf7-40e7-90c7-6715a12ad8a5,femur.wiki,available,1.75,26.08,high,low,5,spaceship,,,01/10/2026 19:33
+9530e9b4-05ae-4ffb-9aaf-11eb8cf1f58d,stp.wiki,premium,103.7,103.7,high,low,3,spaceship,,,01/10/2026 21:35
+e407d781-7a5c-4bb1-aa0f-17b3068f9ddf,landlady.wiki,available,2.99,32.49,high,low,8,namesilo,,,02/10/2026 05:34
 8ec14710-df07-479b-b6b7-d3183e7233c9,skilled.wiki,available,1.75,26.08,high,low,7,spaceship,,,27/09/2026 22:20
 526cb00d-c60d-4bbd-84fc-55004f783b99,cadastral.wiki,available,2.98,43.98,medium,low,9,namecheap,,,11/08/2026 12:39
 e4daf4f0-5e6c-4a7a-8f93-98295b1e8dc2,filetype.wiki,available,2.99,32.49,high,low,9,namesilo,,,
@@ -926,6 +969,7 @@ c0119d98-6fe7-49e2-83ab-cf0c81b59d77,ergotic.wiki,available,2.98,43.98,medium,lo
 f5d3919f-8d23-4141-9497-b70f6ba93f05,fixedly.wiki,available,2.98,43.98,medium,low,7,namecheap,,,14/09/2026 18:44
 32fbb5b0-2099-479c-9d5a-1a1a493b9bea,chastity.wiki,available,2.99,32.49,medium,low,8,namesilo,,,30/09/2026 16:41
 974a18c3-cf6b-410e-a7c0-0790f3bdc130,provisory.wiki,available,2.98,43.98,medium,low,9,namecheap,,,09/09/2026 04:36
+94d8ec41-aff1-4b4c-b792-cac72fdc4394,electrode.wiki,available,1.75,26.08,high,low,9,spaceship,,,01/10/2026 19:23
 05d54b12-d94c-4171-a750-8359a7c806b2,errand.wiki,available,2.99,49.99,high,low,6,godaddy,,,30/09/2026 01:33
 fa09e165-2331-4366-ba0d-a54c44e7f740,solomonic.wiki,available,2.98,43.98,medium,low,9,namecheap,,,10/09/2026 13:43
 b91f6535-e969-420b-915a-73c32350b23a,rechargeable.wiki,available,2.06,26.26,high,low,12,porkbun,,,01/10/2026 05:50
@@ -937,6 +981,7 @@ e88427d0-b9bd-4dce-9527-c64b863c00a3,achilles.wiki,available,2.98,43.98,high,low
 0fc089b7-2121-490d-a3d1-a9b1350c5a94,gale.wiki,premium,51.95,51.95,high,low,4,spaceship,,,29/09/2026 07:02
 86730121-cd4b-4695-ba28-2b7818f2e1d6,retentive.wiki,available,2.98,43.98,high,low,9,namecheap,,,09/09/2026 11:47
 2970f87e-0a17-403d-9362-2f7caa11e130,timorous.wiki,available,2.98,43.98,medium,low,8,namecheap,,,11/09/2026 16:05
+71a227bc-24fc-47f9-96f1-ded7eb7b7fed,litton.wiki,available,2.98,43.98,medium,low,6,namecheap,,,02/10/2026 00:54
 c6ffb37c-4ea6-40e1-b5fe-d99430cb3025,dishonor.wiki,available,1.75,26.08,medium,low,8,spaceship,,,29/09/2026 15:45
 01889fa4-b7ce-4d6c-8120-b340a7ae126d,latin.wiki,premium,162.5,325,high,low,5,namecheap,,,22/08/2026 20:39
 d6ce8ceb-ffc6-4281-92f8-5ad702983f57,araguaia.wiki,available,2.99,32.49,medium,low,8,namesilo,,,19/09/2026 23:45
@@ -948,54 +993,9 @@ aa53bfd7-ed6f-4a73-adbe-4164eb0ac887,cakes.wiki,available,1.75,26.08,medium,low,
 050a0731-316e-4d74-93e0-7fa80ac671da,associated.wiki,available,2.99,32.49,medium,low,10,namesilo,,,28/09/2026 08:17
 e0c64633-392a-4202-8643-fe1a7a67662f,mosby.wiki,available,2,26.97,medium,low,5,dynadot,,,30/09/2026 05:30
 c6009334-c8b3-4346-b3d1-f10efecd4711,playhouse.wiki,available,1.75,26.08,high,low,9,spaceship,,,29/09/2026 02:35
+14f096fe-28ea-48b2-ac48-b44f2e9018d3,hama.wiki,available,1.75,26.08,medium,low,4,spaceship,,,02/10/2026 00:52
 35c2f115-e170-4fdb-aadf-655218ae7cd8,diachronic.wiki,available,2.98,43.98,medium,low,10,namecheap,,,14/08/2026 05:38
 d0d0e001-7a51-4b56-aa7d-a958289a1347,breathed.wiki,available,2.98,43.98,medium,low,8,namecheap,,,11/08/2026 03:16
 e0aaf30f-172f-4d1f-a74b-dabf82f19e32,popularity.wiki,available,2.99,32.49,high,low,10,namesilo,,,28/09/2026 10:44
 eb019c6f-6171-4e4b-885a-b94a90f61faa,hear.wiki,available,1.75,26.08,high,low,4,spaceship,,,30/09/2026 20:01
 c863a7cc-559f-4735-99b4-a6e8347982e0,actinism.wiki,available,2.98,43.98,medium,low,8,namecheap,,,17/09/2026 04:50
-fdb0a485-e7bf-4942-977d-a671ef319eb5,hemisphere.wiki,available,2.98,43.98,high,low,10,namecheap,,,29/09/2026 06:17
-a641d20b-e0af-4bc0-b53c-4274272b7620,unstudied.wiki,available,2.98,43.98,medium,low,9,namecheap,,,12/09/2026 06:07
-ec86df43-9623-42ff-9af7-d1c74d7681f7,bagger.wiki,available,2.98,43.98,medium,low,6,namecheap,,,21/09/2026 18:02
-22d187b5-1d9c-4177-894d-52f4eaa4efb6,baobab.wiki,resell,,,medium,low,6,"GoDaddy.com, LLC",30/06/2026 03:00,30/06/2027 03:00,26/09/2026 04:15
-fafee29d-9342-4163-a314-efcde2f9b491,bouffant.wiki,available,2.98,43.98,high,low,8,namecheap,,,10/08/2026 21:32
-fe9c491a-a3ac-4443-a54d-522f00bc51a8,bern.wiki,premium,116,116,high,low,4,namesilo,,,29/09/2026 02:12
-5f59fb0d-d50d-4967-a79f-08cea5028677,others.wiki,available,2.99,32.49,high,low,6,namesilo,,,25/09/2026 16:48
-f5ccfea0-5c9a-4dcf-8187-708ebfa024fc,pulpy.wiki,available,2.98,43.98,high,medium,5,namecheap,,,09/09/2026 05:57
-0c0652e7-1d00-4fc9-a5bb-246c9e434895,humanistic.wiki,available,2.98,43.98,high,low,10,namecheap,,,21/08/2026 14:53
-e8fc78ff-1972-4711-8fc4-1cd03e375512,referees.wiki,available,2.99,32.49,medium,low,8,namesilo,,,20/09/2026 11:54
-bc08666e-4ae1-40f4-ab12-530959ce3379,quotation.wiki,available,2.06,26.26,high,low,9,porkbun,,,01/10/2026 01:28
-3d1a3119-691b-4938-83b9-018e130b9ec3,capricious.wiki,available,2.98,43.98,medium,low,10,namecheap,,,11/08/2026 18:04
-47dae7af-6e8e-4203-8b8f-69286d54e20e,terrorism.wiki,available,2.99,32.49,medium,low,9,namesilo,,,17/09/2026 04:10
-59132a63-35df-4421-8a18-088dc98e962d,anglerfish.wiki,available,2.99,32.49,medium,low,10,namesilo,,,18/09/2026 11:41
-ae2a2e86-d2dd-446e-aca4-d3a0b12bb405,governing.wiki,available,2.98,43.98,high,low,9,namecheap,,,20/08/2026 17:20
-959f160d-2677-4775-8b61-f1d9519baac5,daedalus.wiki,available,2.99,65.99,high,low,8,name.com,,,13/08/2026 15:32
-71ee5231-6130-4e5b-91ac-b4e975a0d700,attractor.wiki,available,2.99,32.49,high,low,9,namesilo,,,21/09/2026 02:12
-53c4cf6f-3cf5-479d-9cf9-d9ee8af0991d,yule.wiki,premium,53.92,53.92,high,low,4,namesilo,,,24/09/2026 14:52
-ae4cea23-e0b5-436a-84a4-e011ba325b4e,althea.wiki,available,2.99,32.49,medium,low,6,namesilo,,,18/09/2026 14:54
-36e85ef6-f28e-4d52-974e-809a92ffe118,chest.wiki,available,2.99,32.49,high,low,5,namesilo,,,24/09/2026 10:14
-3c35eaa5-5074-43e8-89a7-e2483b2588e6,karpov.wiki,available,2.99,32.49,high,low,6,namesilo,,,19/09/2026 03:27
-eda4a678-723b-485f-9820-1277feea3464,gauche.wiki,available,2.98,43.98,medium,low,6,namecheap,,,18/08/2026 20:41
-c6307546-7001-43af-822e-7af5225a2973,reversive.wiki,available,2.98,43.98,medium,low,9,namecheap,,,09/09/2026 16:11
-3f2050fc-7aa9-4db5-aef3-2cc28f8ab1f3,dime.wiki,premium,53.92,53.92,high,low,4,namesilo,,,29/09/2026 14:59
-5be421f7-dfbe-4d4d-824f-173c91688a44,stuart.wiki,available,2.99,32.49,high,low,6,namesilo,,,25/09/2026 22:59
-8c89cc8b-e60b-45d7-8e82-22dd2517f11a,sponsors.wiki,available,2.98,43.98,high,low,8,namecheap,,,29/09/2026 11:40
-2fab6656-69cf-4404-ac0a-4159d7be3e48,intercede.wiki,available,2.98,43.98,high,low,9,namecheap,,,22/08/2026 08:12
-cb6972c3-47fc-4098-9ea7-ca52e4172337,improver.wiki,available,2.98,43.98,high,low,8,namecheap,,,21/08/2026 14:58
-a489c5e8-46c6-4727-9db8-fd011b097518,enclothe.wiki,available,2.98,43.98,medium,low,8,namecheap,,,19/09/2026 19:54
-69033287-dff0-4cea-aa6a-63a41a0be506,plz.wiki,premium,116,116,high,low,3,namesilo,,,
-fa3db301-4047-4029-a046-32b7b1ef265b,anura.wiki,available,2.99,32.49,medium,low,5,namesilo,,,19/09/2026 15:53
-7b426b10-9526-4227-813a-33d4dd6e92cd,nacreous.wiki,available,2.98,43.98,medium,low,8,namecheap,,,03/09/2026 12:37
-b53e3795-b8d2-4ed4-90dd-558b0899ca34,executioner.wiki,available,25.2,25.2,medium,low,11,cloudflare,,,01/10/2026 04:38
-ea50f70c-8539-48a3-a796-237f26a4f4f0,appetence.wiki,available,2.98,43.98,medium,low,9,namecheap,,,19/09/2026 20:44
-c53b3599-ca47-4c37-aaab-76cf05275fcc,attlee.wiki,available,2.99,32.49,medium,low,6,namesilo,,,16/09/2026 12:16
-0aa2c62e-cea2-460e-9c53-8624cb5399d5,stickup.wiki,available,2.99,32.49,medium,low,7,namesilo,,,20/09/2026 06:38
-7b1dbf52-94da-4997-b042-6cdf32d13392,iberia.wiki,available,25.2,25.2,medium,low,6,cloudflare,,,28/09/2026 14:29
-028aff19-9653-4abc-8e95-2df370617b14,arpent.wiki,available,2.99,32.49,medium,low,6,namesilo,,,20/09/2026 08:38
-a33678f7-6c48-489a-8019-2c4cbf23d94b,drenched.wiki,available,2.98,43.98,medium,low,8,namecheap,,,14/08/2026 18:51
-30aa89c6-2b0d-4558-832b-f3e0e2cb054d,wheeled.wiki,available,2.98,43.98,high,low,7,namecheap,,,13/09/2026 11:20
-f0b22c3b-596e-49aa-9202-1e65deb3af53,architectural.wiki,available,1.75,26.08,medium,low,13,spaceship,,,29/09/2026 08:50
-72bfea07-af0a-47eb-b091-58023250d1df,exon.wiki,premium,53.92,53.92,medium,low,4,namesilo,,,30/09/2026 01:04
-96acfdf0-5412-436c-9d47-6e36a95d2bb6,stahl.wiki,available,1.75,26.08,high,low,5,spaceship,,,29/09/2026 11:00
-47f6ea01-516c-488f-925c-be0908977f4b,arco.wiki,premium,32.5,65,medium,low,4,namecheap,,,06/08/2026 16:02
-d7124ffc-9a7f-44e6-85af-f44646e97365,nestorian.wiki,available,2.98,43.98,medium,low,9,namecheap,,,03/09/2026 15:50
-e1d024c0-c3ce-44b9-8658-f48c4e9b5f5c,angus.wiki,available,2.98,43.98,high,low,5,namecheap,,,16/09/2026 15:11
